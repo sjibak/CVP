@@ -1,0 +1,1 @@
+Computational Visual Perceptron : UNET network to properly segment the parts of the image where the cloth touches a given 3D object.
